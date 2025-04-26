@@ -1,17 +1,19 @@
  Hi there 👋
+I'm Nikhil Kumar — a passionate Full Stack Developer 🚀
 
-nikhilkumar92976/nikhilkumar92976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on building real-world web applications using MERN Stack (MongoDB, Express, React, Node).
+🌱 I’m currently learning Advanced Backend Development, Cloud Services, and improving my Data Structures & Algorithms.
+👯 I’m looking to collaborate on exciting full-stack projects, open-source contributions, and tech communities.
+🤔 I’m looking for help with mastering DevOps practices and cloud deployments (AWS, Railway, Render).
+💬 Ask me about Web Development, JavaScript, React, Node.js, MongoDB, Authentication, and Problem Solving.
+📫 How to reach me:
 
-Here are some ideas to get you started:
+Email: [your-email@example.com] (or just write "Available on GitHub")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+LinkedIn: [Add your LinkedIn profile link]
+
+😄 Pronouns: He/Him
+⚡ Fun fact: I believe consistency beats talent and small daily improvements lead to big achievements! 🌟
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-kumar-singh-bb5490255 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NikhilK40367017) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilkumar92976@gmail.com) 
