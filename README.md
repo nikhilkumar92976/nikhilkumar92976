@@ -2,17 +2,10 @@
 I'm Nikhil Kumar — a passionate Full Stack Developer 🚀
 
 🔭 I’m currently working on building real-world web applications using MERN Stack (MongoDB, Express, React, Node).
-🌱 I’m currently learning Advanced Backend Development, Cloud Services, and improving my Data Structures & Algorithms.
+🌱 I’m currently learning Advanced Backend Development and improving my Data Structures & Algorithms.
 👯 I’m looking to collaborate on exciting full-stack projects, open-source contributions, and tech communities.
-🤔 I’m looking for help with mastering DevOps practices and cloud deployments (AWS, Railway, Render).
 💬 Ask me about Web Development, JavaScript, React, Node.js, MongoDB, Authentication, and Problem Solving.
 📫 How to reach me:
-
-Email: [your-email@example.com] (or just write "Available on GitHub")
-
-LinkedIn: [Add your LinkedIn profile link]
-
-😄 Pronouns: He/Him
 ⚡ Fun fact: I believe consistency beats talent and small daily improvements lead to big achievements! 🌟
 
 ## 🌐 Socials:
